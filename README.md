@@ -6,4 +6,4 @@
 
 ## Install
 
-All instructions can be found at [newtontheme.com/sublime](http://newtontheme.com/sublime).
+All instructions can be found at [newtontheme.com/sublime](http://newtontheme.com/sublime-text).

@@ -1,0 +1,21 @@
+{
+  "name": "theme-newton",
+  "version": "1.0.0",
+  "description": "A low-eyestrain dark theme. Apple not included.",
+  "main": "Newton.tmTheme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newton-theme/sublime-theme-newton.git"
+  },
+  "keywords": [
+    "sublime-text",
+    "syntax-highlighting",
+    "theme"
+  ],
+  "author": "bertolinimarco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newton-theme/sublime-theme-newton/issues"
+  },
+  "homepage": "https://github.com/newton-theme/sublime-theme-newton#readme"
+}
